@@ -1,0 +1,11 @@
+.hero {
+  margin: 3rem auto;
+  max-width: 960px;
+  padding: 2rem;
+  border-radius: 12px;
+  background: linear-gradient(135deg, #eef2ff 0%, #f8fafc 100%);
+  border: 1px solid #e5e7eb;
+}
+.hero h1 { margin: 0 0 .5rem; font: 700 2rem/1.2 system-ui, Segoe UI, Roboto, Arial; }
+.hero p  { margin: 0; color: #334155; font: 400 1rem/1.6 system-ui, Segoe UI, Roboto, Arial; }
+
